@@ -9,3 +9,5 @@
 - 😄 Pronouns: she
 - ⚡ Fun fact: I tried to adjust my schedule to go to bed early and get up early, but ended up going to bed at six in the morning.
 
+Some of my project here
+- 
