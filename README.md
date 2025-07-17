@@ -13,7 +13,7 @@
   Welcome to join me to learn AI. 我会把学习过程分享到个人主页，敬请期待！⭐
 
   
-  对于一个心理学学生，刚接触人工智能学习可能还有点陌生，下面是一个思维导图，帮助你理解。
+  下面是一个思维导图，帮助理解。
 <img width="3032" height="1006" alt="exported_image" src="https://github.com/user-attachments/assets/0626c6f0-198c-4162-b743-6ac231a00751" />
 
 
