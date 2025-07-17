@@ -21,7 +21,7 @@
 <img width="3032" height="1006" alt="exported_image" src="https://github.com/user-attachments/assets/0626c6f0-198c-4162-b743-6ac231a00751" />
 
 
-    心理学在基础理论上大有可为~一起来学习人工智能吧！
+  心理学在基础理论上大有可为~一起来学习人工智能吧！
 
   
 ### 目前我打算开始的学习
