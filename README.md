@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I tried to adjust my schedule to go to bed early and get up early, but ended up going to bed at six in the morning.
 
 
-  Welcome to join me to learn AI. 我会把学习过程分享到个人主页，敬请期待！
+  Welcome to join me to learn AI. 我会把学习过程分享到个人主页，敬请期待！⭐
 
   
   对于一个心理学学生，刚接触人工智能学习可能还有点陌生，下面是一个思维导图，帮助你理解。
@@ -24,3 +24,10 @@
 - 自然语言处理-基础任务-文本分类（小项目链接：）  
 - 自然语言处理-应用场景-文本生成（上手走了一遍流程）  
 - 应用领域-通用应用-智能助手（跟着阿里云的 clouder 教程给网页、app 接入了 agent）  
+
+## 课程
+
+- coursera - crash course for python (certificate ✔️)
+- coursera - machine learning (Currently)
+- coursera - deep learning
+- Maybe you have some recommendation? 😄
