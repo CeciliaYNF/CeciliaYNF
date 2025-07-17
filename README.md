@@ -10,10 +10,7 @@
 - ⚡ Fun fact: I tried to adjust my schedule to go to bed early and get up early, but ended up going to bed at six in the morning.
 
 
-  Welcome to join me to learning AI. 
-
-
-  我会把学习过程分享到个人主页，敬请期待！
+  Welcome to join me to learn AI. 我会把学习过程分享到个人主页，敬请期待！
 
   
   对于一个心理学学生，刚接触人工智能学习可能还有点陌生，下面是一个思维导图，帮助你理解。
