@@ -30,7 +30,7 @@
 - Natural Language Processing - Application Scenarios - Text Generation (got started and went through the process)  
 - Application Field - General Applications - Intelligent Assistant (connected the agent to web pages and apps following Alibaba Cloud's Clouder tutorial)
 
-## 课程
+## Course
 
 - coursera - crash course for python (certificate ✔️)
 - coursera - machine learning (Currently)
