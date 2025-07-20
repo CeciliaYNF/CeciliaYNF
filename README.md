@@ -21,7 +21,7 @@
 
 - 机器学习-深度学习-模型架构-Transformer  
 - 机器学习-深度学习-训练方法-微调（已经上手走了一遍流程）   
-- 自然语言处理-基础任务-分词、文本分类（小项目链接：github.com/CeciliaYNF/R-MultiLayerNN-TextClassification）  
+- 自然语言处理-基础任务-分词、文本分类（小项目链接：https://github.com/CeciliaYNF/R-MultiLayerNN-TextClassification）  
 - 自然语言处理-应用场景-文本生成（上手走了一遍流程）  
 - 应用领域-通用应用-智能助手（跟着阿里云的 clouder 教程给网页、app 接入了 agent）  
 
