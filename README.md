@@ -10,10 +10,7 @@
 - ⚡ Fun fact: I tried to adjust my schedule to go to bed early and get up early, but ended up going to bed at six in the morning.
 
 
-  Welcome to join me to learn AI.⭐
-
-
-  Here is a mind map to help with understanding.
+  Welcome to join me to learn AI.⭐Here is a mind map to help with understanding.
 <img width="3032" height="1006" alt="exported_image" src="https://github.com/user-attachments/assets/0626c6f0-198c-4162-b743-6ac231a00751" />
 
 
