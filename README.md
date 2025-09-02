@@ -7,7 +7,7 @@
 - 💬 Ask me about my dream
 - 📫 How to reach me: 15219121924@163.com
 - 😄 Pronouns: she
-- ⚡ Fun fact: I tried to adjust my schedule to go to bed early and get up early, but ended up going to bed at six in the morning.
+- ⚡ Fun fact: I collect stamps.
 
 
   Welcome to join me to learn AI.⭐Here is a mind map to help with understanding.
